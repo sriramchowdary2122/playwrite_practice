@@ -1,0 +1,7 @@
+ var a= 34;
+
+var b= 100;
+ 
+const c=   a+b;
+
+console.log(c);
